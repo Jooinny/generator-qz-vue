@@ -1,0 +1,11 @@
+{
+  "name": "generator-qz-vue",
+  "version": "1.0.0",
+  "description": "my generator of vue",
+  "main": "index.js",
+  "author": "lqzzz",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.3.0"
+  }
+}
